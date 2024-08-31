@@ -1,0 +1,18 @@
+.custom-nav {
+    background-color: black; /* Fondo azul */
+  }
+  
+  .custom-nav .nav-link {
+    color: white; /* Letras blancas */
+  }
+  
+  .custom-nav .nav-link.active {
+    font-weight: bold; /* Negrita para el enlace activo */
+    font-size: 150px;
+  }
+  
+  /* Opcional: Estilos para enlaces al pasar el mouse */
+  .custom-nav .nav-link:hover {
+    color: lightgray; /* Cambiar color al pasar el mouse */
+  }
+  
